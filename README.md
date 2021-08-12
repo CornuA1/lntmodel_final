@@ -1,2 +1,4 @@
 # lntmodel_final
-defnitive repository for the lntmodel study
+Defnitive repository for the lntmodel study.
+
+The code is not yet fully documented.
