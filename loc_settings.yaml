@@ -1,0 +1,16 @@
+# Settings for local machine. Needs to be adapted for each computer the anlysis has to run on. NEW USERS: make a local copy of this file called loc_settigs.yaml in the
+# same folder as this and set the paths according to your local environment
+---
+# Directory for imaging and corresponding behavior data. Two entries, one for the dataset that uses HDF5, the second that uses just raw files
+imaging_dir: 'C:\Users\lfisc\Work\Projects\Lntmodel\data_2p\dataset\'
+raw_dir : 'C:\Users\lfisc\Google Drive\MTH3_data\animals_raw\'
+
+# base directory for analysis code
+base_dir: 'C:\Users\lfisc\Work\Projects\Lntmodel\code_2pdata\'
+
+# destination for figures
+figure_output_path: 'C:\Users\lfisc\Work\Projects\Lntmodel\analysis_output\'
+
+
+
+...
